@@ -15,7 +15,14 @@ export const metadata: Metadata = {
   keywords: "image store, image sharing, image management",
   robots: "index, follow",
   icons: {
-    icon: "/favicon.ico",
+    icon: [
+      {
+        url: "https://jxechgirxrbrblyrrqmt.supabase.co/storage/v1/object/public/images/bb5b5ced-6b47-425c-aad2-065017342a96/1768574759761-development.pnghttps://jxechgirxrbrblyrrqmt.supabase.co/storage/v1/object/public/images/bb5b5ced-6b47-425c-aad2-065017342a96/1768574759761-development.png",
+        
+      },
+     
+    ],
+    
   },
   openGraph: {
     title: "Image Store",

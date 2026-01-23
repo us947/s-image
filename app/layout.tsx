@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: 'https://jxechgirxrbrblyrrqmt.supabase.co/storage/v1/object/public/images/bb5b5ced-6b47-425c-aad2-065017342a96/1768574759761-development.png',
+        url: 'https://jxechgirxrbrblyrrqmt.supabase.co/storage/v1/object/public/images/bb5b5ced-6b47-425c-aad2-065017342a96/1769171018448-Create_a_clean_202601231749.gif',
         
       },
       
